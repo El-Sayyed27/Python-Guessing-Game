@@ -12,9 +12,14 @@ A simple Python number guessing game where the user has **6 attempts** to guess 
 ## 🛠️ Technologies Used
 - Python 3  
 
-## ▶️ How to Run
+## ⚙️ How to Run
 - Ensure Python is installed on your system  
-- Save the file as `guessing_game.py`  
+- Save the file as `guessing_game.py`
+
+## 🔊 Sound Effects
+- The game also plays audio feedback for guesses:
+  - **Correct guess:** plays `sounds/correct-answer.wav`  
+  - **Wrong guess:** plays `sounds/wrong-answer.wav`
 
 ### Run the script:
 ```bash
