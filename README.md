@@ -13,8 +13,10 @@ A simple Python number guessing game where the user has **6 attempts** to guess 
 - Python 3  
 
 ## ⚙️ How to Run
-- Ensure Python is installed on your system  
-- Save the file as `guessing_game.py`
+- Ensure Python is installed on your system
+- Clone the repository to your local computer `git clone https://github.com/El-Sayyed27/number-guessing-game.git`
+- Install the 2 packages `pip install colorama playsound==1.2.2`  
+- Navigate into downloaded folder `guessing_game`
 
 ## 🔊 Sound Effects
 - The game also plays audio feedback for guesses:
